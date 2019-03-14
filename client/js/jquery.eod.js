@@ -6,6 +6,6 @@ $(document).ready(function () {
 // Submit search form values to PHP script.
 function eodSearch() {
 	$('#eodSearchSubmit').attr('disabled', 'disabled');
-	$.php('http://localhost/eod/server/search.php', $('form#eodSearchForm').serialize());
+	$.php('http://localhost/server/search.php', $('form#eodSearchForm').serialize());
 	return false;
 }

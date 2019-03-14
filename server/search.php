@@ -1,7 +1,7 @@
 <?php
 
 // Set some variables.
-$eodOpenSearch = 'http://search.books2ebooks.eu/Search/Results';
+$eodOpenSearch = 'https://search.books2ebooks.eu/Search/Results';
 
 // Include required jQuery library.
 require_once ('lib/jQuery.php');
