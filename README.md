@@ -1,7 +1,7 @@
 OpenSearch widget for VuFind
 ============================
 
-This is just a rough proof-of-concept made during an [eod](https://books2ebooks.eu) hackathon back in 2011. Please do not use this in production, but merely as an inspiration!
+This is just a rough proof-of-concept made during an [eod](https://books2ebooks.eu) hackathon back in 2011. **Please do not use this in production, but merely as an inspiration!**
 
 Since the [eod](https://books2ebooks.eu) catalog is based on the popular [VuFind](https://vufind.org) library resource discovery system you can easily adapt this for other instances as well (or basically any other [OpenSearch](http://www.opensearch.org) interface). [VuFind is open source](https://github.com/vufind-org/vufind) and developed and maintained by [Villanova University's Falvey Memorial Library](https://www.library.villanova.edu/).
 
