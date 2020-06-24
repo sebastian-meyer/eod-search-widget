@@ -8,11 +8,11 @@ Since the [eod](https://books2ebooks.eu) catalog is based on the popular [VuFind
 Installation
 ------------
 
-- Adjust $eodOpenSearch in server/search.php according to your requirements.
-- Copy the server/* files to any webserver.
-- Adjust client/js/jquery.eod.js according to your requirements.
-- Add the client/js/* files to your website.
-- Take a look at client/index.html for integrating with your pages.
+- Adjust `$eodOpenSearch` in [server/search.php](server/search.php) according to your requirements.
+- Copy the `server/*` files to any webserver.
+- Adjust [client/js/jquery.eod.js](client/js/jquery.eod.js) according to your requirements.
+- Add the `client/js/*` files to your website.
+- Take a look at [client/index.html](client/index.html) for integrating with your pages.
 
 Ideas
 -----
