@@ -17,7 +17,7 @@ Installation
 Ideas
 -----
 
-Instead of going for a client/server approach I'd do the RSS parsing completely client-side in Javascript nowadays. The server part just adds unnecessary complexity. Back in the day I was curious about [jQuery-PHP](http://jquery.hohli.com/) and wanted to try it out. [jQuery-PHP is open source](https://code.google.com/archive/p/jquery-php/) and developed by [Anton Shevchuk](http://anton.shevchuk.name/).
+Instead of going for a client/server approach I'd do the RSS parsing completely client-side in Javascript nowadays. The server part just adds unnecessary complexity. Back in the day I was curious about [jQuery-PHP](http://jquery.hohli.com/) and wanted to try it out. [jQuery-PHP is open source](https://github.com/antonshevchuk/jquery-php) ([Google Code Archive](https://code.google.com/archive/p/jquery-php/)) and developed by [Anton Shevchuk](http://anton.shevchuk.name/).
 
 Known Issues
 ------------
